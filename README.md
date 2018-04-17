@@ -1,1 +1,3 @@
 # Artificial-Intelligence
+
+** Implemented Algorithms **
